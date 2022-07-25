@@ -1,0 +1,4 @@
+﻿  트리 반복적 중위순회.c
+C:\Users\USER\Desktop\2021 2학기\자료구조\트리\트리 반복적 중위순회\트리 반복적 중위순회.c(63,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\트리\트리 반복적 중위순회\트리 반복적 중위순회.c(122,6): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  트리 반복적 중위순회.vcxproj -> C:\Users\USER\Desktop\2021 2학기\자료구조\트리\Debug\트리 반복적 중위순회.exe

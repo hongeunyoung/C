@@ -1,0 +1,11 @@
+﻿  2.c
+C:\Users\USER\Desktop\2021 1학기\문제해결기법\코드\기말기출문제\2\2.c(31,3): warning C4033: 'pick'은(는) 값을 반환해야 합니다.
+C:\Users\USER\Desktop\2021 1학기\문제해결기법\코드\기말기출문제\2\2.c(53,44): warning C4047: '=': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+C:\Users\USER\Desktop\2021 1학기\문제해결기법\코드\기말기출문제\2\2.c(54,45): warning C4047: '=': 'int'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+C:\Users\USER\Desktop\2021 1학기\문제해결기법\코드\기말기출문제\2\2.c(61,39): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\USER\Desktop\2021 1학기\문제해결기법\코드\기말기출문제\2\2.c(61,33): warning C4024: 'pick': 형식 및 실제 매개 변수 5의 형식이 서로 다릅니다.
+C:\Users\USER\Desktop\2021 1학기\문제해결기법\코드\기말기출문제\2\2.c(61,48): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\USER\Desktop\2021 1학기\문제해결기법\코드\기말기출문제\2\2.c(61,41): warning C4024: 'pick': 형식 및 실제 매개 변수 6의 형식이 서로 다릅니다.
+C:\Users\USER\Desktop\2021 1학기\문제해결기법\코드\기말기출문제\2\2.c(66,7): warning C4022: 'free': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+C:\Users\USER\Desktop\2021 1학기\문제해결기법\코드\기말기출문제\2\2.c(67,7): warning C4022: 'free': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+  2.vcxproj -> C:\Users\USER\Desktop\2021 1학기\문제해결기법\코드\기말기출문제\Debug\2.exe

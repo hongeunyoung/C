@@ -1,0 +1,7 @@
+﻿  HW2_4(스택의 활용).c
+C:\Users\USER\Desktop\2021 2학기\자료구조\Stack ADT\HW2_4(스택의 활용)\HW2_4(스택의 활용).c(47,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\Stack ADT\HW2_4(스택의 활용)\HW2_4(스택의 활용).c(74,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\Stack ADT\HW2_4(스택의 활용)\HW2_4(스택의 활용).c(78,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\Stack ADT\HW2_4(스택의 활용)\HW2_4(스택의 활용).c(51): warning C4715: 'pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\Stack ADT\HW2_4(스택의 활용)\HW2_4(스택의 활용).c(62): warning C4715: 'peek': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  HW2_4(스택의 활용).vcxproj -> C:\Users\USER\Desktop\2021 2학기\자료구조\Stack ADT\Debug\HW2_4(스택의 활용).exe

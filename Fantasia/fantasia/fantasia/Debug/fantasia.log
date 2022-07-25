@@ -1,0 +1,4 @@
+﻿  fantasia.c
+C:\Users\USER\Desktop\2021 1학기\문제해결기법\코드\Fantasia\fantasia\fantasia\fantasia.c(9,54): warning C4098: 'fantasia': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\Desktop\2021 1학기\문제해결기법\코드\Fantasia\fantasia\fantasia\fantasia.c(13,54): warning C4098: 'fantasia': 'void' 함수에서 값을 반환하고 있습니다.
+  fantasia.vcxproj -> C:\Users\USER\Desktop\2021 1학기\문제해결기법\코드\Fantasia\fantasia\Debug\fantasia.exe

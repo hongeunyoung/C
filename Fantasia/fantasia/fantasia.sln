@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fantasia", "fantasia\fantasia.vcxproj", "{8CA5559A-8AC1-4AE0-A078-4E3664C26141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CA5559A-8AC1-4AE0-A078-4E3664C26141}.Debug|x64.ActiveCfg = Debug|x64
+		{8CA5559A-8AC1-4AE0-A078-4E3664C26141}.Debug|x64.Build.0 = Debug|x64
+		{8CA5559A-8AC1-4AE0-A078-4E3664C26141}.Debug|x86.ActiveCfg = Debug|Win32
+		{8CA5559A-8AC1-4AE0-A078-4E3664C26141}.Debug|x86.Build.0 = Debug|Win32
+		{8CA5559A-8AC1-4AE0-A078-4E3664C26141}.Release|x64.ActiveCfg = Release|x64
+		{8CA5559A-8AC1-4AE0-A078-4E3664C26141}.Release|x64.Build.0 = Release|x64
+		{8CA5559A-8AC1-4AE0-A078-4E3664C26141}.Release|x86.ActiveCfg = Release|Win32
+		{8CA5559A-8AC1-4AE0-A078-4E3664C26141}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4427C78E-4602-4DCC-97B4-62C0439C29EE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+﻿  HW1_3.c
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW1_3\HW1_3.c(91,12): warning C4101: 'removed' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW1_3\HW1_3.c(293,22): warning C4047: '함수': 'ListNode *'의 간접 참조 수준이 'ListNode ***'과(와) 다릅니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW1_3\HW1_3.c(293,16): warning C4024: 'get_total': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW1_3\HW1_3.c(296,29): warning C4047: '함수': 'ListNode *'의 간접 참조 수준이 'ListNode **'과(와) 다릅니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW1_3\HW1_3.c(296,24): warning C4024: 'insert_first': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW1_3\HW1_3.c(296,40): warning C4047: '=': 'ListNode **'의 간접 참조 수준이 'ListNode *'과(와) 다릅니다.
+  HW1_3.vcxproj -> C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\Debug\HW1_3.exe

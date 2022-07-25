@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "How many carry operations", "How many carry operations\How many carry operations.vcxproj", "{58E36CA1-4660-4055-AE78-41207C341E1C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Finding palindrome", "Finding palindrome\Finding palindrome.vcxproj", "{004712E0-F60A-41B4-880B-0439D037B67C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "How many ones", "How many ones\How many ones.vcxproj", "{B52DD983-60B4-454B-81C4-F586BDA7EC2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58E36CA1-4660-4055-AE78-41207C341E1C}.Debug|x64.ActiveCfg = Debug|x64
+		{58E36CA1-4660-4055-AE78-41207C341E1C}.Debug|x64.Build.0 = Debug|x64
+		{58E36CA1-4660-4055-AE78-41207C341E1C}.Debug|x86.ActiveCfg = Debug|Win32
+		{58E36CA1-4660-4055-AE78-41207C341E1C}.Debug|x86.Build.0 = Debug|Win32
+		{58E36CA1-4660-4055-AE78-41207C341E1C}.Release|x64.ActiveCfg = Release|x64
+		{58E36CA1-4660-4055-AE78-41207C341E1C}.Release|x64.Build.0 = Release|x64
+		{58E36CA1-4660-4055-AE78-41207C341E1C}.Release|x86.ActiveCfg = Release|Win32
+		{58E36CA1-4660-4055-AE78-41207C341E1C}.Release|x86.Build.0 = Release|Win32
+		{004712E0-F60A-41B4-880B-0439D037B67C}.Debug|x64.ActiveCfg = Debug|x64
+		{004712E0-F60A-41B4-880B-0439D037B67C}.Debug|x64.Build.0 = Debug|x64
+		{004712E0-F60A-41B4-880B-0439D037B67C}.Debug|x86.ActiveCfg = Debug|Win32
+		{004712E0-F60A-41B4-880B-0439D037B67C}.Debug|x86.Build.0 = Debug|Win32
+		{004712E0-F60A-41B4-880B-0439D037B67C}.Release|x64.ActiveCfg = Release|x64
+		{004712E0-F60A-41B4-880B-0439D037B67C}.Release|x64.Build.0 = Release|x64
+		{004712E0-F60A-41B4-880B-0439D037B67C}.Release|x86.ActiveCfg = Release|Win32
+		{004712E0-F60A-41B4-880B-0439D037B67C}.Release|x86.Build.0 = Release|Win32
+		{B52DD983-60B4-454B-81C4-F586BDA7EC2A}.Debug|x64.ActiveCfg = Debug|x64
+		{B52DD983-60B4-454B-81C4-F586BDA7EC2A}.Debug|x64.Build.0 = Debug|x64
+		{B52DD983-60B4-454B-81C4-F586BDA7EC2A}.Debug|x86.ActiveCfg = Debug|Win32
+		{B52DD983-60B4-454B-81C4-F586BDA7EC2A}.Debug|x86.Build.0 = Debug|Win32
+		{B52DD983-60B4-454B-81C4-F586BDA7EC2A}.Release|x64.ActiveCfg = Release|x64
+		{B52DD983-60B4-454B-81C4-F586BDA7EC2A}.Release|x64.Build.0 = Release|x64
+		{B52DD983-60B4-454B-81C4-F586BDA7EC2A}.Release|x86.ActiveCfg = Release|Win32
+		{B52DD983-60B4-454B-81C4-F586BDA7EC2A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73EE5261-9B52-4C96-BFB2-FAA2F20E7772}
+	EndGlobalSection
+EndGlobal

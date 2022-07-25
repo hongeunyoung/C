@@ -1,0 +1,4 @@
+﻿  Lab(동적할당을 이용한 조합출력).c
+C:\Users\USER\source\repos\Lab(동적할당을 이용한 조합출력)\Lab(동적할당을 이용한 조합출력)\Lab(동적할당을 이용한 조합출력).c(35,23): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\Lab(동적할당을 이용한 조합출력)\Lab(동적할당을 이용한 조합출력)\Lab(동적할당을 이용한 조합출력).c(39,6): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Lab(동적할당을 이용한 조합출력).vcxproj -> C:\Users\USER\source\repos\Lab(동적할당을 이용한 조합출력)\Debug\Lab(동적할당을 이용한 조합출력).exe

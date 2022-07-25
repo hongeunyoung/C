@@ -1,0 +1,29 @@
+﻿  HW2_2.c
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(72,22): warning C4133: '=': 'StackNode2 *'과(와) 'StackNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(82,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(94,16): warning C4133: '함수': 'LinkedStackType2 *'과(와) 'LinkedStackType *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(102,24): warning C4133: '=': 'StackNode *'과(와) 'StackNode2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(156,21): warning C4133: '=': 'StackNode *'과(와) 'StackNode2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(219,10): warning C4013: 'strcpy_s'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(220,11): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(221,18): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(225,11): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(226,18): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(230,11): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(231,18): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(235,11): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(236,18): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(237,10): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(238,18): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(242,11): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(243,18): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(244,10): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(245,18): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(246,10): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(247,18): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(248,10): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(249,18): warning C4133: '함수': 'LinkedStackType *'과(와) 'LinkedStackType2 *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(92): warning C4715: 'pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(106): warning C4715: 'pop2': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\HW2_2\HW2_2.c(116): warning C4715: 'peek': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  HW2_2.vcxproj -> C:\Users\USER\Desktop\2021 2학기\자료구조\연결리스트\Debug\HW2_2.exe

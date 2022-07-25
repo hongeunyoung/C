@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab(스크린트리3)", "Lab(스크린트리3)\Lab(스크린트리3).vcxproj", "{1198B775-1270-4C5A-98A9-EB10A5DF323E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1198B775-1270-4C5A-98A9-EB10A5DF323E}.Debug|x64.ActiveCfg = Debug|x64
+		{1198B775-1270-4C5A-98A9-EB10A5DF323E}.Debug|x64.Build.0 = Debug|x64
+		{1198B775-1270-4C5A-98A9-EB10A5DF323E}.Debug|x86.ActiveCfg = Debug|Win32
+		{1198B775-1270-4C5A-98A9-EB10A5DF323E}.Debug|x86.Build.0 = Debug|Win32
+		{1198B775-1270-4C5A-98A9-EB10A5DF323E}.Release|x64.ActiveCfg = Release|x64
+		{1198B775-1270-4C5A-98A9-EB10A5DF323E}.Release|x64.Build.0 = Release|x64
+		{1198B775-1270-4C5A-98A9-EB10A5DF323E}.Release|x86.ActiveCfg = Release|Win32
+		{1198B775-1270-4C5A-98A9-EB10A5DF323E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C4993E2-A8DD-4837-AAC6-508B61092EFB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+﻿  hw4_1.c
+C:\Users\USER\Desktop\2021 2학기\자료구조\트리\hw4_1\hw4_1.c(168,12): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\트리\hw4_1\hw4_1.c(170,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\2021 2학기\자료구조\트리\hw4_1\hw4_1.c(170,9): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  hw4_1.vcxproj -> C:\Users\USER\Desktop\2021 2학기\자료구조\트리\Debug\hw4_1.exe
